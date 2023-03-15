@@ -11,7 +11,7 @@ A document file, `Baybayin Word References.docx`, is also uploaded for a list of
 
 This dataset was used to assess our proposed Baybayin word recognition. You can check the full article here.
 
-If you have some questions regarding the dataset provided, just email me at rbpino@up.edu.ph.
+If you have some questions regarding the dataset provided, just email me at rbpino@up.edu.ph. You can read the full paper where we utilized these datasets <a href="https://peerj.com/articles/cs-596/">here</a>.
 
 ## Acknowledgments
 A big thanks to the Baybayin Facebook Public Group named <b> Baybayin - Philippine National Writing System </b> where I have seen and cropped most of the collected Baybayin word images. The group aims to spread and restore the Baybayin writing system throughout the Filipino Nation and others. You can check their page here https://www.facebook.com/groups/Baybayin.PhilippineNationalWritingSystem. Mabuhay!
